@@ -1,6 +1,4 @@
-# Neon Snake Game
-
-A simple arcade-style snake game built with HTML, CSS, and JavaScript.
+# Neon Snake Game\r\n\r\n![Neon Snake Game banner](assets/banner.svg)\r\n\r\nA simple arcade-style snake game built with HTML, CSS, and JavaScript.
 
 ## Play the game
 

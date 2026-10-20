@@ -1,0 +1,67 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090B10"/>
+      <stop offset="1" stop-color="#101C2A"/>
+    </linearGradient>
+    <linearGradient id="snake" x1="200" y1="520" x2="900" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EF9B3"/>
+      <stop offset="1" stop-color="#4CE3FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <g opacity="0.18" stroke="#8FA4BE" stroke-width="1">
+    <path d="M0 40H1600"/>
+    <path d="M0 120H1600"/>
+    <path d="M0 200H1600"/>
+    <path d="M0 280H1600"/>
+    <path d="M0 360H1600"/>
+    <path d="M0 440H1600"/>
+    <path d="M0 520H1600"/>
+    <path d="M0 600H1600"/>
+    <path d="M0 680H1600"/>
+    <path d="M0 760H1600"/>
+    <path d="M0 840H1600"/>
+    <path d="M40 0V900"/>
+    <path d="M120 0V900"/>
+    <path d="M200 0V900"/>
+    <path d="M280 0V900"/>
+    <path d="M360 0V900"/>
+    <path d="M440 0V900"/>
+    <path d="M520 0V900"/>
+    <path d="M600 0V900"/>
+    <path d="M680 0V900"/>
+    <path d="M760 0V900"/>
+    <path d="M840 0V900"/>
+    <path d="M920 0V900"/>
+    <path d="M1000 0V900"/>
+    <path d="M1080 0V900"/>
+    <path d="M1160 0V900"/>
+    <path d="M1240 0V900"/>
+    <path d="M1320 0V900"/>
+    <path d="M1400 0V900"/>
+    <path d="M1480 0V900"/>
+  </g>
+
+  <g>
+    <rect x="170" y="520" width="44" height="44" rx="12" fill="url(#snake)"/>
+    <rect x="214" y="520" width="44" height="44" rx="12" fill="url(#snake)"/>
+    <rect x="258" y="520" width="44" height="44" rx="12" fill="url(#snake)"/>
+    <rect x="302" y="520" width="44" height="44" rx="12" fill="url(#snake)"/>
+    <rect x="346" y="520" width="44" height="44" rx="12" fill="url(#snake)"/>
+    <rect x="390" y="520" width="44" height="44" rx="12" fill="url(#snake)"/>
+    <rect x="434" y="520" width="44" height="44" rx="12" fill="url(#snake)"/>
+    <rect x="478" y="520" width="44" height="44" rx="12" fill="url(#snake)"/>
+    <rect x="522" y="520" width="44" height="44" rx="12" fill="url(#snake)"/>
+    <rect x="566" y="520" width="44" height="44" rx="12" fill="url(#snake)"/>
+    <rect x="610" y="520" width="44" height="44" rx="12" fill="#D2FFE0"/>
+    <circle cx="952" cy="514" r="38" fill="#FF5BD4"/>
+    <circle cx="952" cy="514" r="18" fill="#FFD2F4"/>
+  </g>
+
+  <g>
+    <text x="170" y="330" fill="#EDF3FF" font-family="Segoe UI, Arial, sans-serif" font-size="110" font-weight="800" letter-spacing="8">NEON</text>
+    <text x="170" y="430" fill="#7EF9B3" font-family="Segoe UI, Arial, sans-serif" font-size="110" font-weight="800" letter-spacing="8">SNAKE</text>
+    <text x="170" y="500" fill="#9BB0C7" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="6">GAME PROJECT</text>
+  </g>
+</svg>
